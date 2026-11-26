@@ -24,3 +24,4 @@ npm.cmd --prefix server run dev
 
 # 6. in a new PowerShell window, start frontend
 npm.cmd --prefix client run dev
+achievement-test
